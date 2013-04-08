@@ -48,3 +48,8 @@ What version of .NET is required?
 ---------------------------------
 
 .NET 4.0
+
+How do I use this?
+------------------
+
+This blog [article](http://sitecorejunkie.com/2013/04/04/reuse-sitecore-data-template-fields-by-pulling-them-up-into-a-base-template/) demonstrations how you would use both commands supplied by this module.
