@@ -42,7 +42,7 @@ Files
 What versions of Sitecore will this work on?
 --------------------------------------------
 
-I've testing this on 6.4.1, 6.5 and 6.6.
+I have tested this on Sitecore 6.4.1, 6.5 and 6.6.
 
 What version of .NET is required?
 ---------------------------------
